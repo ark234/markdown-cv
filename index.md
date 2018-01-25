@@ -2,8 +2,8 @@
 Software Enginer
 
 <div id="webaddress">
-<p>arkadiy@nigay.xyz</p>
-| <p>828-585-4319</p>
+<span>arkadiy@nigay.xyz</span>
+| <span>828-585-4319</span>
 </div>
 
 
