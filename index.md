@@ -1,9 +1,8 @@
 # Arkadiy Nigay
-Software Enginer
+## Software Enginer
 
 <div id="webaddress">
-<span>arkadiy@nigay.xyz</span>
-| <span>828-585-4319</span>
+<span>arkadiy@nigay.xyz</span> | <span>828-585-4319</span> | <span>New York City</span> | <span>linkedin.com/in/ark234</span> | <span>github.com/ark234</span>
 </div>
 
 
