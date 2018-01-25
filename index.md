@@ -2,8 +2,8 @@
 Software Enginer
 
 <div id="webaddress">
-<a href="arkadiy@nigay.xyz">arkadiy@nigay.xyz</a>
-| <a href="828-585-4319">828-585-4319</a>
+<p>arkadiy@nigay.xyz</p>
+| <p>828-585-4319</p>
 </div>
 
 
